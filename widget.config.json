@@ -1,0 +1,20 @@
+{
+  "packageId": "wpk2jJ7qZS0VG",
+  "spaceId": "spca33AJDEVhL",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "Hello World (TypeScript)",
+    "en-US": "Hello World (TypeScript)"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorName": "Vika",
+  "authorIcon": "./author_icon.png",
+  "authorLink": "https://vika.cn",
+  "authorEmail": "dev@vikadata.com",
+  "description": {
+    "zh-CN": "小组件 typescript hello world 模板",
+    "en-US": "widgets hello world typescript template"
+  },
+  "globalPackageId": "wpk2jJ7qZS0VG"
+}
