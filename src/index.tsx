@@ -1,5 +1,5 @@
 import React from 'react';
-import { initializeWidget } from '@vika/widget-sdk';
+import { initializeWidget } from '@vikadata/widget-sdk';
 import { Setting } from './setting';
 
 export const HelloWorld: React.FC = () => {
