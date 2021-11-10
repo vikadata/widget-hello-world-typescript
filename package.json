@@ -1,6 +1,6 @@
 {
   "name": "widgets-hello-world-typescript",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "description": "a vika widget",
   "engines": {
     "node": ">=8.x"
