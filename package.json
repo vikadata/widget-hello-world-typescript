@@ -1,6 +1,6 @@
 {
   "name": "widgets-hello-world-typescript",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "a vika widget",
   "engines": {
     "node": ">=8.x"
@@ -28,9 +28,9 @@
   "dependencies": {
     "@types/react": "^16.9.43",
     "@types/react-dom": "^16.9.8",
-    "@vikadata/components": "^0.0.2",
+    "@vikadata/components": "^0.0.3",
     "@vikadata/icons": "^0.0.1",
-    "@vikadata/widget-sdk": "^0.0.1",
+    "@vikadata/widget-sdk": "^0.0.2",
     "typescript": "4.1.2"
   },
   "devDependencies": {
