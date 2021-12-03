@@ -22,8 +22,8 @@
     "release": "widget-cli release"
   },
   "peerDependencies": {
-    "react": "*",
-    "react-dom": "*"
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
   },
   "dependencies": {
     "@types/react": "^16.9.43",
