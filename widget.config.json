@@ -13,8 +13,8 @@
   "authorLink": "https://vika.cn",
   "authorEmail": "dev@vikadata.com",
   "description": {
-    "zh-CN": "小组件 typescript hello world 模板",
-    "en-US": "widgets hello world typescript template"
+    "zh-CN": "从一个最基础的 TypeScript 小组件开始开发",
+    "en-US": "Start building from a Hello World widget with TypeScript"
   },
   "globalPackageId": "wpk2jJ7qZS0VG"
 }
