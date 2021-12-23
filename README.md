@@ -1,3 +1,3 @@
-# 开发者模板小组件
+# 开发者模板小程序
 
-一个`typescript`的`hello world`小组件模板
+一个`typescript`的`hello world`小程序模板
