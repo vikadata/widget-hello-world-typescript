@@ -39,7 +39,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
     - name: Release Template
       run: |
-        npx -y @vikadata/widget-cli release --global --openSource --ci --host ${{ secrets.WIDGET_HOST }} --token ${{ secrets.VIKA_API_TOKEN }}
+        npx -y @apitable/widget-cli release --global --openSource --ci --host ${{ secrets.WIDGET_HOST }} --token ${{ secrets.VIKA_API_TOKEN }}
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
